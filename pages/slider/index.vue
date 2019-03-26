@@ -9,11 +9,14 @@
         My supreme Nuxt.js project
       </h2>
       <div class="links">
-        <nuxt-link to="/anime">アニメの挙動</nuxt-link>
-        <nuxt-link to="/slider">sliderの挙動</nuxt-link>
-        <div class="aaa">tatatatattaatt</div>
-        <b-button variant="primary">Primary Button</b-button>
-        <!-- /.aaa -->
+        <a
+          href="https://nuxtjs.org/"
+          target="_blank"
+          class="button--green">Documentation</a>
+        <a
+          href="https://github.com/nuxt/nuxt.js"
+          target="_blank"
+          class="button--grey">GitHub</a>
       </div>
     </div>
   </section>

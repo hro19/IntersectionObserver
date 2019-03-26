@@ -1,5 +1,14 @@
 <template>
   <div>
+    <nav class="navbar  navbar-default">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">HOME</a></li>
+        <li><a href="#">SERVICE</a></li>
+        <li><a href="#">BLOG</a></li>
+        <li><a href="#">ABOUT</a></li>
+        <li><a href="#">ABOUT</a></li>
+      </ul>
+    </nav>
     <nuxt/>
   </div>
 </template>
