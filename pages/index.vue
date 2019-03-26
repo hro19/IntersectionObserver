@@ -11,8 +11,6 @@
       <div class="links">
         <nuxt-link to="/anime">アニメの挙動</nuxt-link>
         <nuxt-link to="/slider">sliderの挙動</nuxt-link>
-        <div class="aaa">tatatatattaatt</div>
-        <b-button variant="primary">Primary Button</b-button>
         <!-- /.aaa -->
       </div>
     </div>

@@ -1,22 +1,24 @@
 <template>
   <div>
-    <nav class="navbar  navbar-default">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">HOME</a></li>
-        <li><a href="#">SERVICE</a></li>
-        <li><a href="#">BLOG</a></li>
-        <li><a href="#">ABOUT</a></li>
-        <li><a href="#">ABOUT</a></li>
-      </ul>
-    </nav>
+    <div>
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div id="navbarSupportedContent" class="collapse navbar-collapse">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">aaaa</li>
+            <li class="nav-item">aaaa</li>
+            <li class="nav-item">aaaa</li>
+          </ul>
+        </div>
+      </nav>
+    </div>
     <nuxt/>
   </div>
 </template>
 
 <style>
 html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
